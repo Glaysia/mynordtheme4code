@@ -1,19 +1,3 @@
-<p align="center"><a href="https://www.nordtheme.com/ports/visual-studio-code" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/visual-studio-code/repository-hero.png" srcset="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/visual-studio-code/repository-hero-2x.png 2x"/></a></p>
-
-<p align="center"><a href="https://github.com/arcticicestudio/nord-visual-studio-code/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/nord-visual-studio-code.svg?style=flat-square&label=Release&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a> <a href="https://www.nordtheme.com/docs/ports/visual-studio-code" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/nord-visual-studio-code.svg?style=flat-square&label=Docs&colorA=4c566a&colorB=88c0d0&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI%2BCiAgICA8cGF0aCBmaWxsPSIjZDhkZWU5IiBkPSJNMTMuNzQ2IDIuODEzYS42Ny42NyAwIDAgMC0uNTU5LS4xMzNMOCAzLjg0OGwtNS4xODgtMS4xOGEuNjY5LjY2OSAwIDAgMC0uNTcuMTMzLjY3Ny42NzcgMCAwIDAtLjI0Mi41MzF2OC4xMzNjLS4wMDguMzIuMjEuNTk4LjUyLjY2OGw1LjMzMiAxLjE5OWguMjk2bDUuMzMyLTEuMmEuNjY4LjY2OCAwIDAgMCAuNTItLjY2N1YzLjMzMmEuNjU5LjY1OSAwIDAgMC0uMjU0LS41MnpNMy4zMzIgNC4xNjhsNCAuODk4djYuNzY2bC00LS44OTh6bTkuMzM2IDYuNzY2bC00IC44OThWNS4wNjZsNC0uODk4em0wIDAiLz4KPC9zdmc%2BCg%3D%3D"/></a> <a href="https://github.com/arcticicestudio/nord-visual-studio-code/blob/develop/CHANGELOG.md" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/nord-visual-studio-code.svg?style=flat-square&label=Changelog&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a></p>
-
-<p align="center"><a href="https://marketplace.visualstudio.com/items/arcticicestudio.nord-visual-studio-code" target="_blank"><img src="https://vsmarketplacebadge.apphb.com/version/arcticicestudio.nord-visual-studio-code.svg?style=flat-square&label=Extension%20Marketplace&logo=visual-studio-code&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a> <a href="https://marketplace.visualstudio.com/items/arcticicestudio.nord-visual-studio-code" target="_blank"><img src="https://vsmarketplacebadge.apphb.com/installs/arcticicestudio.nord-visual-studio-code.svg?style=flat-square&label=Installations&logo=visual-studio-code&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a> <a href="https://marketplace.visualstudio.com/items/arcticicestudio.nord-visual-studio-code" target="_blank"><img src="https://vsmarketplacebadge.apphb.com/rating-short/arcticicestudio.nord-visual-studio-code.svg?style=flat-square&label=Rating&logo=visual-studio-code&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a></p>
-
-<p align="center"><a href="https://circleci.com/gh/arcticicestudio/nord-visual-studio-code" target="_blank"><img src="https://img.shields.io/circleci/project/github/arcticicestudio/nord-visual-studio-code/develop.svg?style=flat-square&label=Build&logo=circleci&logoColor=eceff4&colorA=4c566a"/></a> <a href="https://code.visualstudio.com/updates/v1_12" target="_blank"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=%3E%3D1.12.0&logo=visual-studio-code&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a></p>
-
-<p align="center"><a href="https://github.com/arcticicestudio/styleguide-javascript/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/styleguide-javascript.svg?style=flat-square&label=JavaScript%20Style%20Guide&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=javascript"/></a> <a href="https://github.com/arcticicestudio/styleguide-markdown/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/styleguide-markdown.svg?style=flat-square&label=Markdown%20Style%20Guide&colorA=4c566a&colorB=88c0d0&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzOSIgaGVpZ2h0PSIzOSIgdmlld0JveD0iMCAwIDM5IDM5Ij48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNEOERFRTkiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBkPSJNMS41IDEuNWgzNnYzNmgtMzZ6Ii8%2BPHBhdGggZmlsbD0iI0Q4REVFOSIgZD0iTTIwLjY4MyAyNS42NTVsNS44NzItMTMuNDhoLjU2Nmw1Ljg3MyAxMy40OGgtMS45OTZsLTQuMTU5LTEwLjA1Ni00LjE2MSAxMC4wNTZoLTEuOTk1em0tMi42OTYgMGwtMTMuNDgtNS44NzJ2LS41NjZsMTMuNDgtNS44NzJ2MS45OTVMNy45MzEgMTkuNWwxMC4wNTYgNC4xNnoiLz48L3N2Zz4%3D"/></a> <a href="https://github.com/arcticicestudio/styleguide-git/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/arcticicestudio/styleguide-git.svg?style=flat-square&label=Git%20Style%20Guide&logoColor=eceff4&colorA=4c566a&colorB=88c0d0&logo=git"/></a></p>
-
-<p align="center">An arctic, north-bluish clean and elegant <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a> theme.</p>
-
-<p align="center">Designed for a fluent and clear workflow based on the <a href="https://www.nordtheme.com" target="_blank">Nord</a> color palette.</p>
-
-<p align="center"><a href="https://www.nordtheme.com/ports/visual-studio-code" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/visual-studio-code/ui-overview-jsx.png"/></a></p>
-
 ## Getting Started
 
 Visit the [official website][nord-home] to learn all about the [syntax highlighting][nord-home#syntax] features, details and elements of the [UI and editor elements][nord-home#editor-details] and the [one-click setup][nord-home#setup].
@@ -51,6 +35,49 @@ See Nord Visual Studio Code's documentation for details about [more activation o
 <div align="center"><p><strong>Small details with unobtrusive styles.</strong></p><p>Popular and common code editor features like search result marker and brace matching are designed to get out of your way with a visually attractive appearance.</p></div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/visual-studio-code/editor-syntax-go-comments.png"/></p>
+
+## Fork note: Nord UI + Dark+ syntax
+
+This repository is a fork that keeps Nord's **workbench/UI colors** (`themes/nord-color-theme.json` → `colors`) but switches the **editor syntax highlighting colors** to match VS Code's built-in **Dark+ (default dark)**:
+
+- `themes/nord-color-theme.json` → `tokenColors` replaced with Dark+'s effective `tokenColors`
+- `themes/nord-color-theme.json` → `semanticTokenColors` added from Dark+ (helps languages relying on semantic tokens)
+
+### Update Dark+ snapshot (optional)
+
+Extract the _effective_ Dark+ theme (resolves `include`):
+
+```sh
+node tools/extract-vscode-theme.mjs \
+  --in /usr/share/code/resources/app/extensions/theme-defaults/themes/dark_plus.json \
+  --out reference/dark-plus.effective.json
+```
+
+Apply Dark+ syntax colors to the Nord theme file (does not change `colors`):
+
+```sh
+node tools/apply-darkplus-syntax.mjs \
+  --nord themes/nord-color-theme.json \
+  --darkplus reference/dark-plus.effective.json
+```
+
+### Build & install locally
+
+```sh
+npm ci
+npm run build
+```
+
+Install the generated `*.vsix` via VS Code UI (**Extensions: Install from VSIX...**) or CLI:
+
+```sh
+code --install-extension ./nord-visual-studio-code-*.vsix
+```
+
+### Quick verification
+
+- Switch between **Dark+ (default dark)** and this theme and confirm syntax tokens (keywords/strings/numbers/functions/classes) match.
+- Use **Developer: Inspect Editor Tokens and Scopes** to confirm token scopes/semantic tokens are colored as expected.
 
 ## Contributing
 

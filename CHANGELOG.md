@@ -8,6 +8,23 @@
 
 <!--lint disable no-duplicate-headings no-duplicate-headings-in-section-->
 
+# 0.19.1
+
+![Release Date: 2026-02-04](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2026-02-04&colorA=4c566a&colorB=88c0d0)
+
+This is a fork-specific maintenance release.
+
+### Changed
+
+- Editor syntax colors now match VS Code's built-in **Dark+ (default dark)** (`tokenColors`).
+- Added Dark+ `semanticTokenColors` to better match semantic-token-based highlighting.
+- Added scripts to extract the effective Dark+ snapshot and apply it to the Nord theme.
+- Added local build/install instructions for the fork.
+
+### Fixed
+
+- Resolved `npm ci` dependency conflict by aligning `eslint-plugin-prettier` with the peer range required by `@arcticicestudio/eslint-config-base`.
+
 # 0.19.0
 
 ![Release Date: 2021-09-25](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2021-09-25&colorA=4c566a&colorB=88c0d0) [![Project Board](https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=0.19.0&colorA=4c566a&colorB=88c0d0)](https://github.com/arcticicestudio/nord-visual-studio-code/projects/30) [![Milestone](https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=0.19.0&colorA=4c566a&colorB=88c0d0)](https://github.com/arcticicestudio/nord-visual-studio-code/milestone/26)

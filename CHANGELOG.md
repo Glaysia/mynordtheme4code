@@ -8,6 +8,19 @@
 
 <!--lint disable no-duplicate-headings no-duplicate-headings-in-section-->
 
+# 0.19.3
+
+![Release Date: 2026-02-04](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2026-02-04&colorA=4c566a&colorB=88c0d0)
+
+This is a fork-specific maintenance release.
+
+### Changed
+
+- Renamed the extension identifier to `nord-visual-studio-code-with-dark-editor`, updated the `keywords`/`displayName`, and appended the suffix to the `.vsix` installer name so the `willbecat27` publisher can publish without conflicting with the original Marketplace extension.
+- Redirected the `homepage`, `repository`, and `bugs` URLs to `https://github.com/Glaysia/mynordtheme4code`.
+- Replaced the README with a concise overview plus install/build instructions for this fork.
+- Clarified that the Marketplace ID is now `willbecat27.nord-visual-studio-code-with-dark-editor`.
+
 # 0.19.2
 
 ![Release Date: 2026-02-04](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2026-02-04&colorA=4c566a&colorB=88c0d0)
@@ -16,7 +29,7 @@ This is a fork-specific maintenance release.
 
 ### Changed
 
-- Updated the extension publisher to `willbecat27` for Visual Studio Marketplace publishing.
+- Added Dark+ `semanticTokenColors` to better match semantic-token-based highlighting.
 
 # 0.19.1
 

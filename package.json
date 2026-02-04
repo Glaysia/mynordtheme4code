@@ -1,21 +1,21 @@
 {
-  "name": "nord-visual-studio-code",
-  "displayName": "Nord",
+  "name": "nord-visual-studio-code-with-dark-editor",
+  "displayName": "Nord (with Dark+ syntax)",
   "description": "An arctic, north-bluish clean and elegant Visual Studio Code theme.",
-  "version": "0.19.2",
+  "version": "0.19.3",
   "publisher": "willbecat27",
   "author": {
     "name": "Arctic Ice Studio",
     "email": "development@arcticicestudio.com",
     "url": "https://www.arcticicestudio.com"
   },
-  "homepage": "https://github.com/arcticicestudio/nord-visual-studio-code",
+  "homepage": "https://github.com/Glaysia/mynordtheme4code",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arcticicestudio/nord-visual-studio-code"
+    "url": "https://github.com/Glaysia/mynordtheme4code"
   },
   "bugs": {
-    "url": "https://github.com/arcticicestudio/nord-visual-studio-code/issues"
+    "url": "https://github.com/Glaysia/mynordtheme4code/issues"
   },
   "license": "MIT",
   "engines": {
@@ -37,22 +37,23 @@
     "north",
     "bluish",
     "clean",
-    "elegant"
+    "elegant",
+    "with-dark-editor"
   ],
   "badges": [
     {
-      "url": "https://vsmarketplacebadge.apphb.com/version/willbecat27.nord-visual-studio-code.svg",
-      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code",
+      "url": "https://vsmarketplacebadge.apphb.com/version/willbecat27.nord-visual-studio-code-with-dark-editor.svg",
+      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code-with-dark-editor",
       "description": "Extension version"
     },
     {
-      "url": "https://vsmarketplacebadge.apphb.com/installs/willbecat27.nord-visual-studio-code.svg",
-      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code",
+      "url": "https://vsmarketplacebadge.apphb.com/installs/willbecat27.nord-visual-studio-code-with-dark-editor.svg",
+      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code-with-dark-editor",
       "description": "Extension installs"
     },
     {
-      "url": "https://vsmarketplacebadge.apphb.com/rating/willbecat27.nord-visual-studio-code.svg",
-      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code",
+      "url": "https://vsmarketplacebadge.apphb.com/rating/willbecat27.nord-visual-studio-code-with-dark-editor.svg",
+      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code-with-dark-editor",
       "description": "Extension Rating"
     }
   ],

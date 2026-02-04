@@ -8,6 +8,17 @@
 
 <!--lint disable no-duplicate-headings no-duplicate-headings-in-section-->
 
+# 0.19.4
+
+![Release Date: 2026-02-04](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2026-02-04&colorA=4c566a&colorB=88c0d0)
+
+This is a fork-specific maintenance release.
+
+### Changed
+
+- Swapped the Marketplace badge URLs to `vsmarketplacebadges.dev` so SVG references comply with Marketplace validation.
+- Confirmed that the Marketplace ID remains `willbecat27.nord-visual-studio-code-with-dark-editor`.
+
 # 0.19.3
 
 ![Release Date: 2026-02-04](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2026-02-04&colorA=4c566a&colorB=88c0d0)

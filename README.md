@@ -119,4 +119,4 @@ The guide also includes information about [minimal, complete, and verifiable exa
 [nord-home#syntax]: https://www.nordtheme.com/ports/visual-studio-code#syntax
 [vscode-docs-extmarket]: https://code.visualstudio.com/docs/editor/extension-gallery
 [vscode-docs-ui-actbar]: https://code.visualstudio.com/docs/getstarted/userinterface#_activity-bar
-[vscode-extmarket-home]: https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code
+[vscode-extmarket-home]: https://marketplace.visualstudio.com/items?itemName=willbecat27.nord-visual-studio-code

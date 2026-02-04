@@ -8,6 +8,16 @@
 
 <!--lint disable no-duplicate-headings no-duplicate-headings-in-section-->
 
+# 0.19.2
+
+![Release Date: 2026-02-04](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2026-02-04&colorA=4c566a&colorB=88c0d0)
+
+This is a fork-specific maintenance release.
+
+### Changed
+
+- Updated the extension publisher to `willbecat27` for Visual Studio Marketplace publishing.
+
 # 0.19.1
 
 ![Release Date: 2026-02-04](https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2026-02-04&colorA=4c566a&colorB=88c0d0)

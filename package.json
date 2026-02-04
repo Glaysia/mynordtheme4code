@@ -2,8 +2,8 @@
   "name": "nord-visual-studio-code",
   "displayName": "Nord",
   "description": "An arctic, north-bluish clean and elegant Visual Studio Code theme.",
-  "version": "0.19.1",
-  "publisher": "arcticicestudio",
+  "version": "0.19.2",
+  "publisher": "willbecat27",
   "author": {
     "name": "Arctic Ice Studio",
     "email": "development@arcticicestudio.com",
@@ -41,18 +41,18 @@
   ],
   "badges": [
     {
-      "url": "https://vsmarketplacebadge.apphb.com/version/arcticicestudio.nord-visual-studio-code.svg",
-      "href": "https://marketplace.visualstudio.com/items/arcticicestudio.nord-visual-studio-code",
+      "url": "https://vsmarketplacebadge.apphb.com/version/willbecat27.nord-visual-studio-code.svg",
+      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code",
       "description": "Extension version"
     },
     {
-      "url": "https://vsmarketplacebadge.apphb.com/installs/arcticicestudio.nord-visual-studio-code.svg",
-      "href": "https://marketplace.visualstudio.com/items/arcticicestudio.nord-visual-studio-code",
+      "url": "https://vsmarketplacebadge.apphb.com/installs/willbecat27.nord-visual-studio-code.svg",
+      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code",
       "description": "Extension installs"
     },
     {
-      "url": "https://vsmarketplacebadge.apphb.com/rating/arcticicestudio.nord-visual-studio-code.svg",
-      "href": "https://marketplace.visualstudio.com/items/arcticicestudio.nord-visual-studio-code",
+      "url": "https://vsmarketplacebadge.apphb.com/rating/willbecat27.nord-visual-studio-code.svg",
+      "href": "https://marketplace.visualstudio.com/items/willbecat27.nord-visual-studio-code",
       "description": "Extension Rating"
     }
   ],
@@ -96,10 +96,5 @@
     "prettier": "^2.4.1",
     "remark-cli": "^9.0.0",
     "vsce": "^1.100.0"
-  },
-  "__metadata": {
-    "id": "6f35c257-7fd5-4bc2-9cd1-01976589c17a",
-    "publisherDisplayName": "arcticicestudio",
-    "publisherId": "d6e09771-ef61-4944-9f28-44e338818618"
   }
 }
